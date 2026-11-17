@@ -1,3 +1,6 @@
-I made those commits when i was in san Francisco in the real github company building btw
-
-not to brag or anything
+<h1>Hello</h1>
+yeah idk 
+im studying game development rn
+github 
+hmmm
+<h3>bye</h3>
